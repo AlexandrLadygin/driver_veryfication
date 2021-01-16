@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Property" verbose="1">
+    <test name="Property">
+        <classes>
+            <class name="PropertyDriverTest"/>
+        </classes>
+    </test>
+</suite>
