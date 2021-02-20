@@ -10,7 +10,9 @@ import static org.openqa.selenium.chrome.ChromeDriverService.CHROME_DRIVER_EXE_P
 
 public class PropertyDriverTest {
     Logger logger = Logger.getLogger("logger");
-
+    //500
+    //600
+    //700
     @Test
     public void remoteDriverTest(){
         System.setProperty(CHROME_DRIVER_EXE_PROPERTY, "src/test/resources/chromedriver.exe");
