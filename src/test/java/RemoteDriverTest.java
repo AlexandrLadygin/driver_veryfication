@@ -12,6 +12,7 @@ public class RemoteDriverTest {
     Logger logger = Logger.getLogger("logger");
     //Test
     //TEST description about remote driver
+    //the driver for selenium grid
     @Test
     public void remoteDriverTest(){
         URL hubUrl = null;
