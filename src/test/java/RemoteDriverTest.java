@@ -11,6 +11,7 @@ import java.util.logging.Logger;
 public class RemoteDriverTest {
     Logger logger = Logger.getLogger("logger");
     //Test
+    //TEST description about remote driver
     @Test
     public void remoteDriverTest(){
         URL hubUrl = null;
