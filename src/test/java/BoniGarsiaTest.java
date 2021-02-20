@@ -7,9 +7,7 @@ import org.testng.annotations.Test;
 import java.util.logging.Logger;
 
 public class BoniGarsiaTest {
-
     Logger logger = Logger.getLogger("logger");
-
 
     @Test
     public void webDriverManagerTest(){
