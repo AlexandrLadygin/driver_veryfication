@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 public class RemoteDriverTest {
     Logger logger = Logger.getLogger("logger");
-
+    
     @Test
     public void remoteDriverTest(){
         URL hubUrl = null;

@@ -8,6 +8,7 @@ import java.util.logging.Logger;
 
 public class BoniGarsiaTest {
     Logger logger = Logger.getLogger("logger");
+
     @Test
     public void webDriverManagerTest(){
         WebDriverManager.chromedriver().setup();
