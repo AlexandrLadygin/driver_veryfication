@@ -8,9 +8,7 @@ import java.util.logging.Logger;
 
 public class BoniGarsiaTest {
     Logger logger = Logger.getLogger("logger");
-    //very hard to deploy using jenkins
-    //info for stashing
-    //800
+
     @Test
     public void webDriverManagerTest(){
         WebDriverManager.chromedriver().setup();

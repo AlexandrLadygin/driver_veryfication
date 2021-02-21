@@ -10,10 +10,7 @@ import java.util.logging.Logger;
 
 public class RemoteDriverTest {
     Logger logger = Logger.getLogger("logger");
-    //Test
-    //TEST description about remote driver
-    //the driver for selenium grid
-    //900
+    
     @Test
     public void remoteDriverTest(){
         URL hubUrl = null;
